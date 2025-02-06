@@ -8,7 +8,7 @@ Este proyecto realiza un análisis de ventas utilizando técnicas de deep learni
 - **Análisis Exploratorio de Datos (EDA):**
 Análisis de las ventas segmentadas por edad, canal de venta, ventas online vs. ventas en tienda, ventas con descuento vs. ventas sin descuento, grupos de productos, entre otros.
 - **Modelo Predictivo (RNN):**
-Se entrena una RNN para predecir las ventas futuras utilizando patrones temporales en los datos históricos de ventas.
+Se entrena una RNN con arquitectura LSTM, diseñada para manejar dependencias a largo plazo en datos secuenciales, permitiendo una mejor captura de tendencias en el tiempo y optimizando la predicción de ventas.
 - **Evaluación del Modelo:**
 El modelo se evalúa utilizando métricas comunes de error:
 RMSE: 82.65
