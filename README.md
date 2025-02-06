@@ -15,7 +15,7 @@ RMSE: 82.65
 MAPE: 8.84%
 
 Pasos:
-**- Preprocesamiento de Datos:** Los datos son limpiados y procesados, incluyendo el manejo de valores nulos y la codificación de variables categóricas.
-**- Entrenamiento del Modelo:** La RNN es entrenada con un conjunto de características, incluyendo datos históricos de ventas, y probada con datos no vistos.
-**- Evaluación de Resultados:** El rendimiento del modelo se evalúa utilizando métricas como RMSE y MAPE.
-**- Visualización:** Los datos de ventas reales y predichas se visualizan para evaluar el rendimiento del modelo.
+- **Preprocesamiento de Datos:** Los datos son limpiados y procesados, incluyendo el manejo de valores nulos y la codificación de variables categóricas.
+- **Entrenamiento del Modelo:** La RNN es entrenada con un conjunto de características, incluyendo datos históricos de ventas, y probada con datos no vistos.
+- **Evaluación de Resultados:** El rendimiento del modelo se evalúa utilizando métricas como RMSE y MAPE.
+- **Visualización:** Los datos de ventas reales y predichas se visualizan para evaluar el rendimiento del modelo.
